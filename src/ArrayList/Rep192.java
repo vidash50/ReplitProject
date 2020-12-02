@@ -8,6 +8,8 @@ public class Rep192 {
 
         System.out.println("this program is actually making me go crazy");
         // I'm going to excel by God's grace
+        System.out.println(" Software development life cycle is a process in which software industries ues to design, develope" +
+                "and test high quality application or software");
 
 
 
