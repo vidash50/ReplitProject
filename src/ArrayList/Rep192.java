@@ -17,6 +17,10 @@ public class Rep192 {
                 "requirement for the application and the requirement must be SMART - specific, measurable," +
                 "attainable, realistic and testable");
 
+        System.out.println("the second phase is designing. the designers design the application following the requirements that has been" +
+                "written by the po. The designer prepares system design specification document and then" +
+                "transform the requirement into a complete and detailed SDS");
+
 
 
 
