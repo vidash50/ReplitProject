@@ -11,6 +11,8 @@ public class Rep192 {
         System.out.println(" Software development life cycle is a process in which software industries ues to design, develope" +
                 "and test high quality application or software");
 
+        System.out.println("There are 6 phases that every software has to go through.");
+
 
 
 
