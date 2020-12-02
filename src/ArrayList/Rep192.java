@@ -13,6 +13,10 @@ public class Rep192 {
 
         System.out.println("There are 6 phases that every software has to go through.");
 
+        System.out.println("Requirement gathering is the first step of the cycle. in this phase the Po writes the" +
+                "requirement for the application and the requirement must be SMART - specific, measurable," +
+                "attainable, realistic and testable");
+
 
 
 
